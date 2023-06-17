@@ -82,6 +82,5 @@ The integration is performed over the interval [1, 3] using 200,000 intervals (`
 
 Feel free to modify the function and integration parameters to suit your needs.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+## References
+This project is based on an assignment of the Coursera course *Simulation and modeling of natural processes* (https://www.coursera.org/learn/modeling-simulation-natural-processes).
